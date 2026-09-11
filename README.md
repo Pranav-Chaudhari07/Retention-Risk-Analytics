@@ -2,9 +2,7 @@
 
 ## Project Logbook – Sem Project
 
-
-
-# Retention Risk Analysis – Customer Churn Prediction System
+---
 
 ## Overview
 
@@ -62,29 +60,13 @@ The project aims to help organizations identify customers who may leave and take
                     │
                     ▼
           Retention Decision
-
-## Team Members:
-
-
-| Name | Class | PRN |
-|------|-------|-------------|
-| Pranav Kishor Chaudhari | DS - A | 241106032 |
-| Darshan Yogesh Shinde | DS - A | 241106049 |
-| Harsh Ravindra Mali | DS - B | 241106081 |
-| Pratik Kishor Nikwade | DS - A | 241106036 |
-
-## Authors
-
-**College:** R C Patel Institute of Technology
-
-**Department:** Computer Science and Engineering (Data Science)
-
-**Guide:** Prof. Priyanka D. Lanjewar
-
-**Academic Year:** 2026-2027
+```
 
 ---
 
-## License
-
-This project is developed for academic and research purposes only.
+| Name                    | Class  | PRN       |
+| ----------------------- | ------ | --------- |
+| Pranav Kishor Chaudhari | DS - A | 241106032 |
+| Darshan Yogesh Shinde   | DS - A | 241106049 |
+| Harsh Ravindra Mali     | DS - B | 241106081 |
+| Pratik Kishor Nikwade   | DS - A | 241106036 |
