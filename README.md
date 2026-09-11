@@ -70,3 +70,22 @@ The project aims to help organizations identify customers who may leave and take
 | Darshan Yogesh Shinde   | DS - A | 241106049 |
 | Harsh Ravindra Mali     | DS - B | 241106081 |
 | Pratik Kishor Nikwade   | DS - A | 241106036 |
+
+--- 
+
+## Authors
+
+**College:** R C Patel Institute of Technology
+
+**Department:** Computer Science and Engineering (Data Science)
+
+**Guide:** Prof. Priyanka D. Lanjewar
+
+**Academic Year:** 2025-2026
+
+---
+
+## License
+
+This project is developed for academic and research purposes only.
+
