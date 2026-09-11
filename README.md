@@ -2,21 +2,7 @@
 
 ## Project Logbook – Sem Project
 
-| Sr.No | Contents | Date |
-|-------|----------|-------------|
-| 1 | Project Group Formation | 08/01/2026 – 15/01/2026 |
-| 2 | Project Topic Finalization | 19/01/2026 – 29/01/2026 |
-| 3 | Identified and analyzed the functional and non-functional requirements of the proposed system | 29/01/2026 – 31/01/2026 |
-| 4 | Studied customer retention, churn factors, and analyzed the overall system workflow | 07/02/2026 – 18/02/2026 |
-| 5 | Implementation Phase – I | 19/02/2026 – 28/02/2026 |
-| 6 | Collected, cleaned, and preprocessed the customer churn dataset | 01/03/2026 – 09/03/2026 |
-| 7 | Implementation Phase – II: Developed and trained the machine learning model | 10/03/2026 – 27/03/2026 |
-| 8 | Implementation Phase – III: Developed the web interface and integrated the prediction model | 28/03/2026 – 01/04/2026 |
-| 9 | Conducted functional, performance, and validation testing of the complete system | 05/04/2026 – 27/04/2026 |
-| 10 | Evaluated model performance using relevant classification metrics and analyzed the results | 28/04/2026 – 09/05/2026 |
-| 11 | Prepared the project documentation and summarized the conclusions and future scope | 09/05/2026 – 11/05/2026 |
 
----
 
 # Retention Risk Analysis – Customer Churn Prediction System
 
