@@ -81,7 +81,7 @@ The project aims to help organizations identify customers who may leave and take
 
 **Guide:** Prof. Priyanka D. Lanjewar
 
-**Academic Year:** 2025-2026
+**Academic Year:** 2026-2027
 
 ---
 
