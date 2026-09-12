@@ -1,6 +1,14 @@
 # Retention Risk Analysis – Customer Churn Prediction System
 
 ## Project Logbook – Sem Project
+| Sr.No |                           Contents                                    | Date        |
+|-------|-----------------------------------------------------------------------|-------------|
+| 1 | Project Group Formation |  |
+| 2 | Project Topic Finalization |  |
+| 3 | Identified and analyzed the functional and non-functional requirements of the proposed system |  |
+
+
+---
 
 ---
 
